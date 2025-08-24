@@ -1,63 +1,81 @@
-# Hi there, I'm Otmane 👋  
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF"/>
+</p>
 
-🎓 I'm a **software engineering student** at **1337 Coding School** (42 Network).  
-💡 Passionate about **low-level programming**, **algorithms**, and **problem solving**.  
-🚀 Always learning, building, and contributing to open-source projects.  
+<h1 align="center">Hi 👋, I'm Otmane</h1>
+<h3 align="center">Software Engineering Student @ 1337 Coding School</h3>
 
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** C, C++, Python, Shell, JavaScript  
-- **System Programming:** UNIX, Process Management, Signals, Pipes  
-- **Web Basics:** HTML, CSS, JavaScript, REST APIs  
-- **Tools:** Git, GitHub, Makefile, Vim, VS Code  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🌱 What I'm Currently Learning  
+## 🚀 About Me
 
-- Advanced **C programming** and **memory management**  
-- **Algorithms & Data Structures**  
-- **Cyber Security** basics  
-- Building projects like `push_swap`, `minishell`, and more.  
-
----
-
-## 📌 Featured Projects  
-
-| Project      | Description                                | Tech Stack |
-|------------|-------------------------------------------|-----------|
-| [Push Swap](https://github.com/username/push_swap) | Sorting algorithm with stack operations | C |
-| [Minishell](https://github.com/username/minishell) | Custom shell implementation in C | C, UNIX |
-| [Libft](https://github.com/username/libft) | Personal C library | C |
+- 🎓 Currently a **Software Engineering Student** at **1337 Coding School** *(42 Network)*
+- 💻 Passionate about **Low-level Programming**, **Algorithms**, and **Cyber Security**
+- 🚀 Building projects like **push_swap**, **minishell**, **libft** and more
+- 🌱 Currently improving my **System Programming** & **Problem Solving** skills
 
 ---
 
-## 📫 Let's Connect  
+## 🛠️ Tech Stack & Tools
 
-- **GitHub**: [github.com/username](https://github.com/username)  
-- **LinkedIn**: [linkedin.com/in/username](https://linkedin.com/in/username)  
-- **Email**: youremail@example.com  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white" />
+</p>
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_  
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" alt="GitHub Streak" width="49%"/>
+</p>
 
 ---
 
+## 🏆 Most Used Languages
 
-<!--
-**YAGAME-YAGAME/yagame-yagame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Code, Learn, Repeat.”</em>
+</p>

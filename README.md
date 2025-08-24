@@ -1,6 +1,4 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C6BC0&center=true&vCenter=true&width=435&lines=Hello,+World!+👋;I'm+[Your+Name];1337+(42)+Student;Passionate+Developer" alt="Typing SVG" />
-</h1>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C6BC0&center=true&vCenter=true&width=435&lines=A+passionate+developer;Proud+student+at+1337+(42);Crafting+the+future+one+line+at+a+time" alt="Typing SVG" /></a>
@@ -73,21 +71,6 @@ Here are some of the significant projects I've built at 1337:
 | **[Inception](https://github.com/your-username/Inception)** | A Docker-based project to set up a small DevOps infrastructure. | `Docker` `NGINX` `MariaDB` |
 
 *Click on the project names to view the source code!*
-
----
-
-### 📊 GitHub Stats & 1337 Badge
-
-<div align="center">
-  
-![1337 Stats](https://badge.mediaplus.ma/darkblue/your_intra_login?1337Badge=off&UM6P=off) <!-- Replace with your badge -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)](https://git.io/streak-stats)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-</div>
 
 ---
 
